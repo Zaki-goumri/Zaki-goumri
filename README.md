@@ -24,7 +24,7 @@ Dynamic Full-Stack Developer | Dedicated Cloud Computing Enthusiast. Highly pass
 - 🔭 I’m currently learning on cloud computing.   
   
 
-- 🌱 I’m currently working on creer bridge project [https://github.com/Zaki-goumri/projet-2cp-front.git)  
+- 🌱 I’m currently working on creer bridge project [Take a Look](https://github.com/Zaki-goumri/projet-2cp-front.git)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
