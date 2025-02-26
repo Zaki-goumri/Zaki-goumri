@@ -68,7 +68,7 @@ Dynamic Full-Stack Developer | Dedicated Cloud Computing Enthusiast. Highly pass
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="50" alt="express logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" height="50" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
   <img width="12" />
@@ -86,7 +86,7 @@ Dynamic Full-Stack Developer | Dedicated Cloud Computing Enthusiast. Highly pass
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="50" alt="socketio logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" height="50" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
