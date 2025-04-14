@@ -5,7 +5,7 @@
 
 
 ### Glad to see you here!  
-Dynamic Full-Stack Developer | Dedicated Cloud Computing Enthusiast. Highly passionate about web development and backend engineering, I thrive on creating innovative projects that drive success and deliver exceptional user experiences.  
+Dynamic Full-Stack Developer. Highly passionate about web development and backend engineering, I thrive on creating innovative projects that drive success and deliver exceptional user experiences.  
   
 
 <br/>  
