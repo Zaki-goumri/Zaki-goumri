@@ -91,6 +91,8 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="50" alt="Nest logo"  />
 </div>
 
 ---
