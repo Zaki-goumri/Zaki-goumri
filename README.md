@@ -29,7 +29,7 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="http://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU2OTM0MTUsIm5iZiI6MTc0NTY5MzExNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI2VDE4NDUxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyNzk0MGNhMzk4MThlYTlhMTUzNGNhZTQ2OWM2YzhlMWFmYjZlMTFmOTZhNDZlYzI2OWFmNjA5OWEwOTQ3YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OH7U49DUSsSXtrHfyHrn2BJ2B1BDthteiOPjWeZ1j5s" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
 </div>  
 
 
