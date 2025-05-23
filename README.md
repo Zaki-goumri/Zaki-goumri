@@ -37,12 +37,24 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
 
 <br/>  
 
+## Github Statics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaki-goumri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaki-goumri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki-goumri&area=true&theme=github-dark" height="150" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaki-goumri&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-goumri&layout=compact&theme=dark&hide_border=false&langs_count=5" width="350" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki-goumri&theme=github-dark&area=true" width="800" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zaki-goumri&theme=dark&hide_border=false" width="500" alt="Streak Stats" />
+</p>
+
+
+
+
 
 ### Teck stack
 
