@@ -20,7 +20,7 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
 - 🌱 I’m currently working on creer bridge project [Take a Look](https://github.com/Zaki-goumri/projet-2cp-front.git)  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to backend engineering  and related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
