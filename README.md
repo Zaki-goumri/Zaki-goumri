@@ -5,7 +5,7 @@
 
 
 ### Glad to see you here!  
-Dynamic Full-Stack Developer. Highly passionate about web development and backend engineering, I thrive on creating innovative projects that drive success and deliver exceptional user experiences.  
+Dynamic software engineer. Highly passionate about web development and backend engineering, I thrive on creating innovative projects that drive success and deliver exceptional user experiences.  
   
 
 <br/>  
@@ -14,16 +14,13 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently learning on cloud computing.   
-  
-
-- 🌱 I’m currently working on creer bridge project [Take a Look](https://github.com/Zaki-goumri/projet-2cp-front.git)  
-  
+- 🔭 I’m currently learning about AI and machine learning.   
+    
 
 - ❓ Ask me about anything related to backend engineering  and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep the night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
@@ -66,17 +63,8 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="12" /> 
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" height="50" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
@@ -97,11 +85,19 @@ Dynamic Full-Stack Developer. Highly passionate about web development and backen
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" height="50" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="12" />
   <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="50" alt="Nest logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="50" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="elasticsearch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
+  <img width="12" />
+  <img src="https://typeorm.io/img/typeorm-logo-white.svg" height="30" alt="typeorm logo" position="center"/>
+  <img width="12" />
+  <img src="https://graphql.org/_next/static/media/logo.ad338028.svg" height="50" alt="graphql logo" />
+  <img width="12" />
+
+
 </div>
 
 ---
