@@ -53,57 +53,77 @@ Dynamic software engineer. Highly passionate about web development and backend e
 
 
 
-### Teck stack
-
+### Tech Stack
 ---
 
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" /> 
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" height="50" alt="express logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="golang logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
+
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" height="50" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="50" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo"  />
+
+  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="50" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" height="50" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" height="50" alt="Nest logo"  />
+
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="50" alt="fastapi logo" />
   <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo" />
+  <img width="12" />
+
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="50" alt="grpc logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="50" alt="kafka logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" height="50" alt="traefik logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="50" alt="prisma logo" />
+  <img width="12" />
+
+  <img src="https://typeorm.io/img/typeorm-logo-white.svg" height="30" alt="typeorm logo" />
+  <img width="12" />
+
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" height="50" alt="socketio logo" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="elasticsearch logo" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
-  <img width="12" />
-  <img src="https://typeorm.io/img/typeorm-logo-white.svg" height="30" alt="typeorm logo" position="center"/>
-  <img width="12" />
-  <img src="https://graphql.org/_next/static/media/logo.ad338028.svg" height="50" alt="graphql logo" />
-  <img width="12" />
-
-
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://www.instagram.com/ethrealzaki/" target="_blank">
+  <a href="https://www.instagram.com/zakii.sol/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zakaria-goumri-76ab222a6/" target="_blank">
