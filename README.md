@@ -1,55 +1,23 @@
-##  Hi there! 👋 I'm Zaki   
-  
- 
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
 
-
-
-### Glad to see you here!  
-Dynamic software engineer. Highly passionate about web development and backend engineering, I thrive on creating innovative projects that drive success and deliver exceptional user experiences.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently learning about AI and machine learning.   
-    
-
-- ❓ Ask me about anything related to backend engineering  and related technologies  
-  
-
-- ⚡ Fun fact: I keep the night shift switched on at all times   
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E0234E&center=true&vCenter=true&width=520&lines=Backend+Engineer;NestJS+%C2%B7+TypeScript+%C2%B7+Go;Distributed+systems+%26+APIs;Open-source+library+author" alt="Backend Engineer" />
+
+I build backend systems with NestJS, TypeScript and Go: APIs, event-driven services,<br/>
+and the infrastructure under them. When a tool is missing, I write it and publish it.
+
+</div>
 
 
-</td></tr></table>  
+<br/>
 
-<br/>  
-
-## Github Statics
+## Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zaki-goumri&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=false" width="450" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-goumri&layout=compact&theme=dark&hide_border=false&langs_count=5" width="350" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaki-goumri&theme=github-dark&area=true" width="800" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zaki-goumri&theme=dark&hide_border=false" width="500" alt="Streak Stats" />
-</p>
-
-
 
 
 
@@ -149,7 +117,3 @@ Dynamic software engineer. Highly passionate about web development and backend e
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Zaki-goumri/count.svg?"  />
-
----
