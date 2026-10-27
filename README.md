@@ -1,9 +1,10 @@
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNzbnhnOXI0aHBnbjdqeWh4b2IzMmZtM2lhZGo5YTYybWtudncwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif" align="center" style="width: 100%" />
+</div>
+<div align="center">
+ <h1>Zakaria Goumri</h1>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E0234E&center=true&vCenter=true&width=520&lines=Backend+Engineer;NestJS+%C2%B7+TypeScript+%C2%B7+Go;Distributed+systems+%26+APIs;Open-source+library+author" alt="Backend Engineer" />
-
+  <br/>
 I build backend systems with NestJS, TypeScript and Go: APIs, event-driven services,<br/>
 and the infrastructure under them. When a tool is missing, I write it and publish it.
 
