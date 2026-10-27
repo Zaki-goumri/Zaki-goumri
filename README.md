@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
 
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="center" style="width: 100%" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E0234E&center=true&vCenter=true&width=520&lines=Backend+Engineer;NestJS+%C2%B7+TypeScript+%C2%B7+Go;Distributed+systems+%26+APIs;Open-source+library+author" alt="Backend Engineer" />
 
 I build backend systems with NestJS, TypeScript and Go: APIs, event-driven services,<br/>
